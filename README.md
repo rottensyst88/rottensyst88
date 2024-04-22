@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Actualmente estudiante de Ingenieria Civil en Informatica, en la Universidad del Bio-Bio.
+  Aprendiendo:  -> Java (Debido a la carrera)
+                -> C#
+                -> Blender
+                -> COBOL (Posiblemente)
+
+~AB
