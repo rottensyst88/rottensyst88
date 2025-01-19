@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Actualmente estudiante de Ingenieria Civil en Informatica, en la Universidad del Bio-Bio.
   Aprendiendo:  -> Java (Debido a la carrera)
                 -> C#
-                -> Blender
+                -> Ptyhon
                 -> COBOL (Posiblemente)
 
 ~AB
